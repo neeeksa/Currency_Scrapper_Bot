@@ -1,30 +1,30 @@
-Бот для получения данных о курсах валют по городам Украины🤖💱
+Bot for obtaining data on exchange rates for cities of Ukraine🤖💱
 
-Этот бот предоставляет информацию о курсах валют для различных городов. Он основан на Telegram боте и использует данные, собранные с внешних источников.
+This bot provides information about exchange rates for various cities. It is based on the Telegram bot and uses data collected from external sources.
 
-Функциональность
+Functionality
 
-Выбор города: Пользователи могут выбрать город из списка доступных городов.
-Получение информации о курсах валют: После выбора города пользователи могут получить актуальные данные о курсах валют в выбранном городе.
-Обработка ошибок: Если данные не удалось получить или произошла другая ошибка, пользователи получат соответствующее уведомление.
+City Selection: Users can select a city from a list of available cities.
+Obtaining information about exchange rates: After selecting a city, users can get up-to-date information about exchange rates in the selected city.
+Error handling: If data could not be retrieved or another error occurred, users will be notified accordingly.
 
-Как использовать
+How to use
 
-Запуск бота: Запустите бота на платформе Telegram.
-Выбор города: Нажмите на кнопку "выбрать город🏙️" и выберите интересующий вас город из списка.
-Получение данных: После выбора города бот предоставит вам информацию о курсах валют в данном городе.
-Возврат к главному меню: Вы можете вернуться к главному меню, нажав кнопку "назад".
+Launch a bot: Launch a bot on the Telegram platform.
+Selecting a city: Click on the “select city🏙️” button and select the city you are interested in from the list.
+Receiving data: After selecting a city, the bot will provide you with information about exchange rates in this city.
+Return to main menu: You can return to the main menu by pressing the back button.
 
-Использованные технологии
-Python: Бот написан на Python, используя библиотеку aiogram для работы с API Telegram.
-Web-скрапинг: Для получения данных о курсах валют используется web-скрапинг
+Technologies used
+Python: The bot is written in Python using the aiogram library to work with the Telegram API.
+Web scraping: Web scraping is used to obtain data on exchange rates
 
-Развитие проекта
-Этот бот может быть доработан и расширен следующим образом:
+Project development
+This bot can be modified and expanded as follows:
 
-Добавление новых городов и соответствующих им данных о курсах валют.
-Улучшение интерфейса и функциональности для улучшения пользовательского опыта.
-Добавление новых функций, таких как уведомления о изменениях курсов валют.
+Adding new cities and corresponding data on exchange rates.
+Improved interface and functionality to improve user experience.
+Adding new features such as notifications about changes in exchange rates.
 
-Авторы
-Этот бот был разработан neeeksa.
+Authors
+This bot was developed by neeeksa.
